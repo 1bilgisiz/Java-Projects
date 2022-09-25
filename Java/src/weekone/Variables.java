@@ -1,4 +1,4 @@
-package Weekone;
+package weekone;
 
 public class Variables {
 

@@ -1,9 +1,8 @@
-package Weekone;
+package weekone;
 
 public class recapDemo1 {
 
 	public static void main(String[] args) {
-
 		int sayi1 = 25;
 		int sayi2 = 35;
 		int sayi3 = 15;
@@ -22,4 +21,6 @@ public class recapDemo1 {
 
 	}
 
-}
+	}
+
+
