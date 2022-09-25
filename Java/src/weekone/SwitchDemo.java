@@ -4,7 +4,7 @@ public class SwitchDemo {
 
 	public static void main(String[] args) {
 		char grade = 'F';
-		
+
 		switch (grade) {
 		case 'A':
 			System.out.println("Mükemmel : Geçtiniz");
@@ -22,8 +22,6 @@ public class SwitchDemo {
 			System.out.println("Malesef : Kaldınız ");
 			break;
 
-			
-			
 		default:
 			System.out.println("Geçersiz not girdiniz '");
 		}
