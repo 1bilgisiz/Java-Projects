@@ -2,13 +2,28 @@ package fielandattributes;
 
 public class Product {
 
-	int id;
-	String name;
-	String description;
-	double price;
-	int stock;
-	String renk;
-	String kod;
+	public Product(int id, String name, String description, double price, int stock, String renk, String kod) {
+		System.out.println("Yapıcı blok çalıştı...");
+		this.id = id;
+		this.name = name;
+		this.description = description;
+		this.price = price;
+		this.stock = stock;
+		this.renk = renk;
+		this.kod = kod;
+	}
+
+	public Product() {
+
+	}
+
+	private int id;
+	private String name;
+	private String description;
+	private double price;
+	private int stock;
+	private String renk;
+	private String kod;
 
 	public int getId() {
 		return id;
