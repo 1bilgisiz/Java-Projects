@@ -1,9 +1,8 @@
-package weektwo;
+package variablesargs;
 
-public class VariableArguments {
+public class variablesarguments {
 
 	public static void main(String[] args) {
-
 		int toplam = toplama(2, 3, 6, 78, 9, 0);
 		System.out.println(toplam);
 
@@ -19,6 +18,7 @@ public class VariableArguments {
 
 		return toplam;
 
+	
 	}
 
 }

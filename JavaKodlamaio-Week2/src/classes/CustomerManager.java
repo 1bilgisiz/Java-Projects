@@ -1,4 +1,4 @@
-package JavaKodlamaioweek2;
+package classes;
 
 public class CustomerManager {
 	public void Add() {

@@ -1,6 +1,4 @@
-package weektwo;
-
-import java.util.Iterator;
+package methods;
 
 public class methods {
 
@@ -37,5 +35,4 @@ public class methods {
 		System.out.println(mesaj);
 
 	}
-
 }

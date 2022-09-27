@@ -1,7 +1,6 @@
-package weektwo;
+package methods2;
 
 public class methods2 {
-
 	public static void main(String[] args) {
 
 		String mesaj = "Hava çok güzel";
@@ -40,6 +39,4 @@ public class methods2 {
 
 	public static String sehir(String sehir) {
 		return "Ankra'da";
-	}
-
-}
+	}}
