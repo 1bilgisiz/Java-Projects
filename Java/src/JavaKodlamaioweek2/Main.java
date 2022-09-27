@@ -1,4 +1,6 @@
-package classexample;
+package JavaKodlamaioweek2;
+
+import JavaKodlamaioweek2.CustomerManager;
 
 public class Main {
 
@@ -9,6 +11,7 @@ public class Main {
 		customerManager.Update();
 		customerManager.Remove();
 		customerManager.Sign();
+
 	}
 
 }

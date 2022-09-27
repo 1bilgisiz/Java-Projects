@@ -1,7 +1,6 @@
-package classexample;
+package JavaKodlamaioweek2;
 
 public class CustomerManager {
-
 	public void Add() {
 		System.out.println("Müşteri Eklendi");
 	}
