@@ -12,7 +12,6 @@ public class VeriTipleri {
 		boolean dogruMu = false;
 
 		float sayi2 = (float) 125.5;
-		//rrrr
 
 	}
 
